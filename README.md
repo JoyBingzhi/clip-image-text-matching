@@ -18,14 +18,14 @@ This project demonstrates how to run image-text similarity using a custom-traine
 - `inference.ipynb`: Interactive notebook for demo
 - `inference.py`: Optional Python script version
 
-## Model Weights Download
-Please manually download the pre-trained model weights (approx. 150MB):
-📦 Click here to download clip-imp-pretrained_128_6_after_4.pt
-After downloading, place the file in the model/ directory of this project.
+## 🔗 Model Weights Download
 
-## 🔗 模型权重下载
+Please manually download the pre-trained model file (approx. 150MB):
 
-请手动下载预训练模型文件（约150MB）：
+📦 [Click here to download the model file `clip-imp-pretrained_128_6_after_4.pt`](https://stanfordmedicine.app.box.com/s/dbebk0jr5651dj8x1cu6b6kqyuuvz3ml)
+
+After downloading, place it inside the `model/` directory of this project.
+
 
 📦 [点击下载模型文件 clip-imp-pretrained_128_6_after_4.pt](https://stanfordmedicine.app.box.com/s/dbebk0jr5651dj8x1cu6b6kqyuuvz3ml)
 
