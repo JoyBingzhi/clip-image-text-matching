@@ -17,3 +17,8 @@ This project demonstrates how to run image-text similarity using a custom-traine
 - `test_images/`: Example test images
 - `inference.ipynb`: Interactive notebook for demo
 - `inference.py`: Optional Python script version
+
+## Model Weights Download
+Please manually download the pre-trained model weights (approx. 150MB):
+📦 Click here to download clip-imp-pretrained_128_6_after_4.pt
+After downloading, place the file in the model/ directory of this project.
