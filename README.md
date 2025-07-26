@@ -15,5 +15,5 @@ This project demonstrates how to run image-text similarity using a custom-traine
 - `custom_tokenizer.py`: Custom tokenizer used in the project
 - `bpe_simple_vocab_16e6.txt.gz`: Tokenizer vocabulary file
 - `test_images/`: Example test images
-- `inference.ipynb`: Interactive notebook for demo
-- `inference.py`: Optional Python script version
+- `Copy_of_Learning&first_try_Clip.ipynb`: Interactive notebook for demo
+- `Copy_of_Learning&first_try_Clip.py`: Optional Python script version
