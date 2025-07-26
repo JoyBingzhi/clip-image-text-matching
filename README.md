@@ -27,7 +27,4 @@ Please manually download the pre-trained model file (approx. 150MB):
 After downloading, place it inside the `model/` directory of this project.
 
 
-📦 [点击下载模型文件 clip-imp-pretrained_128_6_after_4.pt](https://stanfordmedicine.app.box.com/s/dbebk0jr5651dj8x1cu6b6kqyuuvz3ml)
-
-下载后将其放入项目的 `model/` 文件夹中。
 
