@@ -4,7 +4,7 @@ This project demonstrates how to run image-text similarity using a custom-traine
 
 ## How to Use
 
-1. Open `inference.ipynb` in Google Colab
+1. Open `Copy_of_Learning&first_try_Clip.ipynb` in Google Colab
 2. Upload two test images (e.g., a dog and an airplane)
 3. Provide corresponding text (e.g., "This is a dog", "This is an airplane")
 4. Run all cells to see matching scores!
