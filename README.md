@@ -24,7 +24,7 @@ Please manually download the pre-trained model file (approx. 150MB):
 
 📦 [Click here to download the model file `clip-imp-pretrained_128_6_after_4.pt`](https://stanfordmedicine.app.box.com/s/dbebk0jr5651dj8x1cu6b6kqyuuvz3ml)
 
-After downloading, place it inside the `model/` directory of this project.
+After downloading, place it into colab file.
 
 
 
